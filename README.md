@@ -5,23 +5,6 @@ The project combines a **React + Vite** front-end and a **Flask + MongoDB** back
 
 ---
 
-## 📖 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Front-End Setup](#front-end-setup)
-- [Back-End Setup](#back-end-setup)
-- [API Endpoints](#api-endpoints)
-- [Database Structure](#database-structure)
-- [Technologies Used](#technologies-used)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-- [Summary](#summary)
-
----
-
 ## 🧠 Overview
 
 The **News Aggregator** collects, organizes, and stores news articles from Greek online media outlets,  
